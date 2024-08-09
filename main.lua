@@ -28,7 +28,7 @@ hands-off approach to this resource, so it does not automate the process of upda
 
 
 -- about Sounds
--- Insono uses Sound's "Volume" propertiy to determine the intensity of the sound. Below is a chart detailing references to real world sounds for you to use.
+-- Insono uses Sound's "Volume" property to determine the intensity of the sound. Below is a chart detailing references to real world sounds for you to use.
 
 --# [0 - 1]: Phone speaker, Radio, Small speaker, Keyboard, ect.
 --# [1 - 3]: Guitar, Piano, Street firework, Industrial Fan, Screaming Pedestrian ect.
