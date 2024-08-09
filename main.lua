@@ -58,7 +58,7 @@ hands-off approach to this resource, so it does not automate the process of upda
 --# set_sound_physical_properties(): Replaces the default environment properties with your custom ones.						Requires (intelisense autofill)
 --# init(): self-explanatory																								(no requirement)
 --# update_reverb(): An expensive method to update reverb for each sound. Should not be updated every frame, but frequently.(no requirement)
---# step(): The main process that updates rolloff, and peripheral muffling. Inexpensive. 										(no requirement)
+--# step(): The main process that updates rolloff, and peripheral muffling. Inexpensive. 									(no requirement)
 
 
 
