@@ -1,6 +1,8 @@
-# insono
+# Insono
 A modular resource for adding immersion to your Roblox sound enviroment. Using math to muffle, and reverberate audio around you.
 Sounds cast rays that determine how the room around you echos. When you turn your camera, sounds become muffled. The world around you comes to life.
+
+[logo]: https://raw.githubusercontent.com/8ava/insono/main/git_readmegrapics/graphic_rayfurthest.png "Choosing the ray with the greatest distance"
 
 This was constructed with a hands-off approach. This means we do not automate the stepping process. You can implement this wherever you see fit in your code.
 
